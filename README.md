@@ -233,7 +233,8 @@ python monai/04_export_radiology_csv.py
 - Results are not intended for clinical use without validation on real patient data.
 
 
-👨‍💻 Author
+### 👨‍💻 Author
+
 Devansh Rajpoot
 AI / ML Research | Medical Imaging | Clinical Decision Support
 
