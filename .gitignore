@@ -1,0 +1,18 @@
+# Virtual environments
+.venv/
+monai_env/
+
+# Python cache
+__pycache__/
+*.pyc
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Model weights
+*.pth
+*.pt
+
+# OS files
+.DS_Store
+Thumbs.db

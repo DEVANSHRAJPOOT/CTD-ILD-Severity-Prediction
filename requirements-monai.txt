@@ -1,0 +1,12 @@
+# Deep Learning
+torch>=2.0
+torchvision>=0.15
+
+# Medical Imaging
+monai>=1.3
+nibabel>=5.1
+scikit-image>=0.21
+
+# Utilities
+numpy>=1.23
+pandas>=1.5
