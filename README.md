@@ -53,6 +53,7 @@ Based on pathologic type and segmental extension:
 
 ## 🗂️ Project Structure
 
+``` bash
 CTD_ILD_Project/
 │
 ├── data/
@@ -82,7 +83,7 @@ CTD_ILD_Project/
 ├── .venv/ # Main ML environment
 ├── monai_env/ # MONAI / PyTorch environment
 └── README.md
-
+```
 
 ---
 
@@ -199,7 +200,7 @@ jupyter notebook
 
 - 04_model3_combined.ipynb
 
-# 2️⃣ MONAI Imaging Pipeline
+### 2️⃣ MONAI Imaging Pipeline
 
 ```bash 
 
@@ -211,7 +212,7 @@ python monai/04_export_radiology_csv.py
 
 ``` 
 
-## 📌 Key Contributions
+#### 📌 Key Contributions
 
 - ✅ End-to-end multimodal ML framework for CTD-ILD
 
@@ -226,7 +227,7 @@ python monai/04_export_radiology_csv.py
 - ✅ Research-ready, modular architecture
 
 
-# 📜 Disclaimer
+## 📜 Disclaimer
 
 - This project uses synthetic data for methodological demonstration only.
 - Results are not intended for clinical use without validation on real patient data.
